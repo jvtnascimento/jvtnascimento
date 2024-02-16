@@ -2,9 +2,9 @@
 
 #### Sobre mim
 
-Olá, me chamo João Victor(ele/dele), mas pode me chamar de jv, atualmente moro em São Paulo.
+Olá, me chamo João Victor, mas pode me chamar de jv, atualmente moro em São Paulo.
 Eu sou formado em Sistemas de Informaçāo pela UniFOA, e trabalho com programaçāo desde 2016. 
-Passei por [@Radix](https://github.com/radixeng), [@GuiaBolso](https://github.com/GuiaBolso), [@Picpay](https://github.com/Picpay) e Mobile Vale que não tem github.
+Passei por [@Radix](https://github.com/radixeng), [@GuiaBolso](https://github.com/GuiaBolso), [@Picpay](https://github.com/Picpay) e Mobile Vale.
 
 ##### Sinta-se à vontade para trocar uma ideia comigo e saber mais da minha vida profissional no Linkedin.
 
